@@ -372,7 +372,7 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 58px;
-  color: #bf40bf;
+  color: #fffafa;
   font-family: "Poppins", sans-serif;
 }
 
@@ -389,7 +389,7 @@ h6 {
   border: 2px solid #bf40bf;
   transition: all ease-in-out 0.3s;
   display: inline-block;
-  background: #bf40bf;
+  background: #fffafa;
 }
 
 #hero .btn-get-started:hover {
