@@ -389,7 +389,7 @@ h6 {
   border: 2px solid #bf40bf;
   transition: all ease-in-out 0.3s;
   display: inline-block;
-  background: #fffafa;
+  background: #000000;
 }
 
 #hero .btn-get-started:hover {
@@ -1063,7 +1063,7 @@ section {
   border-radius: 20px;
   color: #fff;
   transition: none;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   transition: 0.3s;
